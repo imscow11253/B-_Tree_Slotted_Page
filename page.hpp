@@ -1,5 +1,6 @@
 #include "slot_header.hpp"
 
+// #define PAGE_SIZE 96	// 한 page에 2개만 들어가는 경우
 #define PAGE_SIZE 256 
 //#define PAGE_SIZE 4096
 class page{      // slotted page 클래스

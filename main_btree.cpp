@@ -30,7 +30,7 @@ int main(){
 		cnt++;
 		val*=cnt;
 		if(val== tree->lookup(key)){
-			printf("key :%s founds\n",key);		
+			printf("key :%s founds\n",key);
 		}
 		else{
 			printf("key :%s Something wrong\n",key);		
