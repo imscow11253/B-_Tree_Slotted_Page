@@ -70,7 +70,7 @@ Detail action in B+ tree followed action of general B+ tree in google.
 
 1. Because of assignment deadline, I implemented this project ***without following The Clean Code law***. All function and variable is named without representing own role. And all logic is implemented in one file. (page.cpp && btree.cpp) I will do  refactoring someday.
 
-2. I implemented only Insert, Search function. I think ***Delete function is importan as much as Insert function***. I will implement Delete functino addtional someday.
+2. I implemented only Insert, Search function. I think ***Delete function is important as much as Insert function***. I will implement Delete functinon addtional someday.
 
 
 
